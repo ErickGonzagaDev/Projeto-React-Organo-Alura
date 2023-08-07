@@ -1,4 +1,4 @@
-Nesse projeto, foram aprendidos os seguintes topicos:
+# Nesse projeto, foram aprendidos os seguintes topicos:
 
  - Vantagens da utilização do React
  - Componentes reativos
